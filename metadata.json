@@ -1,0 +1,6 @@
+{
+  "name": "BOTEQ - Futuristic AI Indian Couture Atelier",
+  "description": "Discover next-generation AI-synthesized sarees, half sarees, designer blouses, kurtis, and royal bridal couture in electric blue and navy luxury at BOTEQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
