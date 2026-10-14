@@ -353,7 +353,7 @@ export const MusicPlayer: React.FC<MusicPlayerProps> = ({
             title={isPlaying ? "Pause Background Music" : "Play Background Music"}
           >
             <img
-              src="/src/assets/images/product_futuristic_saree_1791909500548.jpg"
+              src="/images/product_futuristic_saree_1791909500548.jpg"
               alt="BOTEQ Official Music"
               className={`w-full h-full object-cover ${isPlaying ? 'animate-[spin_8s_linear_infinite]' : ''}`}
             />

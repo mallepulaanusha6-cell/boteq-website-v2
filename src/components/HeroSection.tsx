@@ -117,7 +117,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                 {/* Photographic High-Res Canvas */}
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/3] sm:aspect-[16/12] shadow-2xl border border-white/10 group">
                   <img
-                    src="/src/assets/images/hero_indian_saree_model_1791899599685.jpg"
+                    src="/images/hero_indian_saree_model_1791899599685.jpg"
                     alt="BOTEQ Signature Handloom Saree"
                     className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105"
                     referrerPolicy="no-referrer"

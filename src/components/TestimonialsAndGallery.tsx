@@ -23,37 +23,37 @@ export const TestimonialsAndGallery: React.FC<TestimonialsAndGalleryProps> = ({
   const instagramPosts = [
     {
       id: 1,
-      image: '/src/assets/images/hero_indian_saree_model_1791899599685.jpg',
+      image: '/images/hero_indian_saree_model_1791899599685.jpg',
       tag: '#BoteqAtelier',
       caption: 'Banarasi silk poetry engineered for modern royalty.',
     },
     {
       id: 2,
-      image: '/src/assets/images/product_futuristic_saree_1791909500548.jpg',
+      image: '/images/product_futuristic_saree_1791909500548.jpg',
       tag: '#ImperialWineDrape',
       caption: 'Rose gold zari striations on deep organza silk.',
     },
     {
       id: 3,
-      image: '/src/assets/images/product_designer_blouse_1791909500299.jpg',
+      image: '/images/product_designer_blouse_1791909500299.jpg',
       tag: '#MaggamPrecision',
       caption: 'Precision needlepoint and antique gold dori embellishments.',
     },
     {
       id: 4,
-      image: '/src/assets/images/category_tops_fusion_1791909498342.jpg',
+      image: '/images/category_tops_fusion_1791909498342.jpg',
       tag: '#IndoWesternFusion',
       caption: 'Blush satin drape skirt paired with corset blouse.',
     },
     {
       id: 5,
-      image: '/src/assets/images/product_blush_banarasi_1791909499984.jpg',
+      image: '/images/product_blush_banarasi_1791909499984.jpg',
       tag: '#BlushGoldZari',
       caption: 'Kora Banarasi silk woven with radiant minakari motifs.',
     },
     {
       id: 6,
-      image: '/src/assets/images/about_boteq_model_1791899602823.jpg',
+      image: '/images/about_boteq_model_1791899602823.jpg',
       tag: '#ImperialOrganza',
       caption: 'Ethereal sheer purple organza draped to perfection.',
     },

@@ -38,7 +38,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({
                 {/* Arched image container */}
                 <div className="relative rounded-t-[180px] rounded-b-2xl overflow-hidden aspect-[3/4] shadow-2xl border border-white/10 group">
                   <img
-                    src="/src/assets/images/about_boteq_model_1791899602823.jpg"
+                    src="/images/about_boteq_model_1791899602823.jpg"
                     alt="BOTEQ Heritage Silk & Organza Saree"
                     className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-700"
                     referrerPolicy="no-referrer"
